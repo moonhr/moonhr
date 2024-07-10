@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonhr&show_icons=true&theme=radical)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/moonhr"
+    width="800"
+    height="120"
+  />
+</a>
+  
