@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 <!--
 **moonhr/moonhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +18,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonhr&show_icons=true&theme=radical)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/moonhr"
-    width="800"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/moonhr"
+  width="600"
+  height="300"
+/>
 </a>
   
