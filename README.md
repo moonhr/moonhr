@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/moonhr"
-  width="600"
-  height="300"
+  width="800"
+  height="200"
 />
 </a>
