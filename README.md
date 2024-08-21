@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="47" height="47" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="47" height="47" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="47" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="47" height="47" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="47" height="47" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="47" height="47" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="47" height="47" />
